@@ -8,7 +8,7 @@ Android Studio or IntelliJ IDEA with Android Plugin is recommended to build and 
 WiiPM is an RPG game in Android platform. In this game, you could obtain all 649 pocket monsters. Any pokemon is willing to accompany you at any time and is ready to battle with any dangerous wild pokemon. In WiiPM, you could tour around in a huge world, challenge 8 gym leaders and 4 elites and final strengthful tournament champion. Battle system in WiiPM observe all rules in 6th official pieces, including 559 moves, etc. Master great battle skills and you will be best PokeMon Trainer ever.
 
 ## Quick Understanding
-This section is suitable for those who just want to know WiiPM but is not ready to reuse it. Visit __[Introduction Video](http://pan.baidu.com/s/1ntYVs2P)__ is enough.
+This section is suitable for those who just want to know WiiPM but is not ready to reuse it. Visit __[Introduction Video](http://pan.baidu.com/s/1eSFjrLS)__ is enough.
 
 ## How to Build
 WiiPM is an Idea Project, so just import an existing project if you using the Android Studio or IntelliJ IDEA. More detailed information will be supplied in the near future.
