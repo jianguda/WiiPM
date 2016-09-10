@@ -13,7 +13,7 @@ This section is suitable for those who just want to know WiiPM but is not ready 
 ## How to Build
 WiiPM is an Idea Project, so just import an existing project if you using the Android Studio or IntelliJ IDEA. More detailed information will be supplied in the near future.
 
-__Plan: WiiPM won't be updated for a more attractive and scitific-planed RPG wii replace it out, but it may take very long__
+__Plan: WiiPM won't be updated for a more attractive and scitific-planed RPG wii replace it out, maybe it takes very long__
 
 __Warning: WiiPM is only compatible with a device with resolution ratio of 720p now__
 
