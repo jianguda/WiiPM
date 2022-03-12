@@ -12,7 +12,7 @@ WiiPM is an RPG game in Android platform. In this game, you could obtain all 649
 
 ## Quick Understanding
 
-This section is suitable for those who just want to know WiiPM but is not ready to reuse it. Check **[Introduction Video](https://share.weiyun.com/24Hi5JbN)**
+This section is suitable for those who just want to know WiiPM but is not ready to reuse it. Check **[Introduction Video](https://share.weiyun.com/DjdqaQwl)**
 
 ## How to Build
 
